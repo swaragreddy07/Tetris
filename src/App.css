@@ -1,0 +1,15 @@
+body,
+html,
+#root {
+  height: 100%;
+  margin: 0;
+  background-color: #111; /* deep black */
+  color: white;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
